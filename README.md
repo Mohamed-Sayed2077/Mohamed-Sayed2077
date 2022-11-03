@@ -35,8 +35,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamed-sayed2077&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamed-sayed2077&theme=monokai&utcOffset=8)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-sayed2077&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mohamed-sayed2077" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-sayed2077&show_icons=true&theme=tokyonight&locale=en" alt="mohamed-sayed2077" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-sayed2077&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mohamed-sayed2077" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-sayed2077&show_icons=true&theme=tokyonight&locale=en" alt="mohamed-sayed2077" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-sayed2077&theme=dark" alt="mohamed-sayed2077" /></p>
