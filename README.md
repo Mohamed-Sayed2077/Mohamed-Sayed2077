@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sayed</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-sayed2077&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-sayed2077" /> </p>
 
