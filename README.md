@@ -31,11 +31,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-sayed2077&theme=monokai)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamed-sayed2077&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamed-sayed2077&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamed-sayed2077&theme=monokai)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamed-sayed2077&theme=monokai)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamed-sayed2077&theme=monokai)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamed-sayed2077&theme=monokai&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamed-sayed2077&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamed-sayed2077&theme=monokai&utcOffset=8)
 
