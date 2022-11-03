@@ -35,3 +35,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamed-sayed2077&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamed-sayed2077&theme=monokai&utcOffset=8)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-sayed2077&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mohamed-sayed2077" /></p>
+
